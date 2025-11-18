@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481691584658",
+    "project_id": "english-b1-app",
+    "storage_bucket": "english-b1-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481691584658:android:97ad9141d3e0c207f43e4b",
+        "android_client_info": {
+          "package_name": "com.example.neobez"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN154HnvxzVHDGyMEggWKBZxyHCQpTMEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
